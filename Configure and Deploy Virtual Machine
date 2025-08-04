@@ -1,0 +1,20 @@
+###You are the network administrator for your company. You have decided to begin the configuration of Azure to help manage your network. As part of this setup, you need to create a virtual server in Azure.
+
+In this lab, your task is to create an Azure virtual machine using the following information:
+
+Virtual machine type: Azure virtual machine
+Project details:
+Subscription name: CorpNet Production
+Resource group name: CorpNetCloud
+Instance details:
+Virtual machine name: CorpCloud1
+Region: (US) West US2
+Image: Windows Server 2022 Datacenter: Azure Edition - Gen2
+Size: Standard_D4s_v3 - 4 vcpu, 16 GiB memory ($327.04/month)
+Administrator account:
+Username: CorpAdmin
+Password: corpP@ssw0rd
+Disk options:
+Set Standard HDD as the OS disk type.
+Make sure that the Delete with VM box is selected.
+Use the default network parameters.
